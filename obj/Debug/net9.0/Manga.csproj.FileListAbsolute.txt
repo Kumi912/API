@@ -35,3 +35,5 @@ C:\Users\Huawei\Desktop\API\Manga\obj\Debug\net9.0\ref\Manga.dll
 C:\Users\Huawei\Desktop\API\Manga\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Huawei\Desktop\API\Manga\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Huawei\Desktop\API\Manga\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Huawei\Desktop\API\Manga\bin\Debug\net9.0\Infrastructure\data\javerage.library.data.json
+C:\Users\Huawei\Desktop\API\Manga\bin\Debug\net9.0\Scalar.AspNetCore.dll

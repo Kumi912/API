@@ -9,6 +9,7 @@
       "Manga/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.1",
+          "Scalar.AspNetCore": "2.4.19",
           "Swashbuckle.AspNetCore": "8.1.2"
         },
         "runtime": {
@@ -32,6 +33,14 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
             "assemblyVersion": "1.6.23.0",
             "fileVersion": "1.6.23.0"
+          }
+        }
+      },
+      "Scalar.AspNetCore/2.4.19": {
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.4.19.0",
+            "fileVersion": "2.4.19.0"
           }
         }
       },
@@ -101,6 +110,13 @@
       "sha512": "sha512-tZ1I0KXnn98CWuV8cpI247A17jaY+ILS9vvF7yhI0uPPEqF4P1d7BWL5Uwtel10w9NucllHB3nTkfYTAcHAh8g==",
       "path": "microsoft.openapi/1.6.23",
       "hashPath": "microsoft.openapi.1.6.23.nupkg.sha512"
+    },
+    "Scalar.AspNetCore/2.4.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ywi3lG1WhyKq5nC5YUpKD4dt+f8kw16ddm2OrEu+LUjhFa+xkTYOLGLPUProyRcXswndXFWqWgL/gZdB8idHkw==",
+      "path": "scalar.aspnetcore/2.4.19",
+      "hashPath": "scalar.aspnetcore.2.4.19.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/8.1.2": {
       "type": "package",
